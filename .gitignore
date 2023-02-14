@@ -1,0 +1,6 @@
+spark/
+logs/
+metastore_db/
+.ipynb_checkpoints/
+*.log
+*.pyc
